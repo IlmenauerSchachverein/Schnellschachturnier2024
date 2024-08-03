@@ -1,5 +1,5 @@
 ---
-title: Vereinsmeisterschaft 2024
+title: Schnellschachturnier 2024
 toc: false
 ---
 
