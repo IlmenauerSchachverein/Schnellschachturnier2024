@@ -7,8 +7,10 @@ type: docs
 
 ##  Important information 
 {{< cards >}}
-  {{< card link="table/invitation" title="Invitation" icon="user" >}}
-  {{< card link="table/start" title="Start ranking list" icon="user" >}}
+  {{< card link="table/invitation" title="Ausschreibung" icon="user" >}}
+  {{< card link="table/start" title="Startrangliste" icon="user" >}}
+  {{< card link="https://forms.gle/ZLjpR8TB2WYDJSvK9" title="Anmeldung" icon="user" target="_blank">}}
+  {{< card link="https://chess-results.com/tnr893020.aspx?lan=0" title="Chess-Results" icon="user" target="_blank">}}
 {{< /cards >}}
 
 ## pairing of all rounds 
