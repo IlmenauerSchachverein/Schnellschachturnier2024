@@ -2,8 +2,6 @@
 title: Legal Notice
 type: Legal Notice
 ---
-# Legal Notice
-
 **Responsible Website Operator:**
 
 Ilmenauer Chess Club e.V.  

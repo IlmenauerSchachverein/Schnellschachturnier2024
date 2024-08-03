@@ -3,8 +3,6 @@ title: Impressum
 type: Impressum
 ---
 
-# Impressum
-
 **Verantwortlicher Seitenbetreiber:**
 
 Ilmenauer Schachverein e.V.  
