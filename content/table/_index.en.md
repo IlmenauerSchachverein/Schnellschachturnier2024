@@ -1,5 +1,5 @@
 ---
-title: Club Championship 2024
+title: 30th Ilmenau rapid chess tournament 2024
 toc: false
 ---
 
@@ -7,7 +7,9 @@ toc: false
 ##  Important information 
 {{< cards >}}
   {{< card link="invitation" title="Invitation" icon="user" >}}
-  {{< card link="start" title="Start ranking list" icon="user" >}}
+  {{< card link="start" title="Starting list" icon="user" >}}
+  {{< card link="https://forms.gle/ZLjpR8TB2WYDJSvK9" title="Register" icon="user" target="_blank">}}
+  {{< card link="https://chess-results.com/tnr893020.aspx?lan=0" title="Chess-Results" icon="user" target="_blank">}}
 {{< /cards >}}
 
 ## pairing of all rounds 
