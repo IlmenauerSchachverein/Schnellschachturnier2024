@@ -25,8 +25,9 @@ The tournament will not be rated according to ELO or DWZ.
 | 10.08.2024 | 11:00     | Round 2                     |
 | 10.08.2024 | 12:00     | Round 3 with lunch break    |
 | 10.08.2024 | 14:00     | Round 4                     |
-| 10.08.2024 | 17:00     | Round 6                     |
-| 10.08.2024 | 18:00     | Round 7                     |
+| 10.08.2024 | 15:00     | Round 5                     |
+| 10.08.2024 | 16:00     | Round 6                     |
+| 10.08.2024 | 17:00     | Round 7                     |
 | 10.08.2024 | Afterward | Award ceremony              |
 
 ## Prizes
