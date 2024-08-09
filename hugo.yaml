@@ -51,9 +51,9 @@ menu:
         type: search
     - name: GitHub
       weight: 6
-      url: "https://github.com/IlmenauerSchachverein/Schnellschach2024"
+      url: "https://github.com/IlmenauerSchachverein/Schnellschachturnier2024"
       params:
-        icon: github
+        icon: gitlab
     - name: Instagram
       weight: 7
       url: "https://instagram.com/ilmenauer_schachverein"

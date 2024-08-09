@@ -11,6 +11,8 @@ type: docs
   {{< card link="table/start" title="Startrangliste" icon="user" >}}
   {{< card link="https://forms.gle/ZLjpR8TB2WYDJSvK9" title="Anmeldung" icon="user" target="_blank">}}
   {{< card link="https://chess-results.com/tnr893020.aspx?lan=0" title="Chess-Results" icon="user" target="_blank">}}
+  {{< card link="table/download" title="Downloads" icon="user" target="_blank">}}
+  {{< card link="table/images" title="Bilder" icon="user" target="_blank">}}
 {{< /cards >}}
 ## Paarungen aller Runden 
 
