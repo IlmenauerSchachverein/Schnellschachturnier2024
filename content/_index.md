@@ -24,7 +24,6 @@ type: docs
   {{< card link="table/pairing/5" title="Paarungen Runde 5" icon="user" >}}
   {{< card link="table/pairing/6" title="Paarungen Runde 6" icon="user" >}}
   {{< card link="table/pairing/7" title="Paarungen Runde 7" icon="user" >}}
-  {{< card link="table/pairing/8" title="Paarungen Runde 8" icon="user" >}}
 {{< /cards >}}
 
 ## Rangliste aller Runden 
@@ -37,7 +36,6 @@ type: docs
   {{< card link="table/ranking/5" title="Rangliste nach Runde 5" icon="user" >}}
   {{< card link="table/ranking/6" title="Rangliste nach Runde 6" icon="user" >}}
   {{< card link="table/ranking/7" title="Rangliste nach Runde 7" icon="user" >}}
-  {{< card link="table/ranking/8" title="Rangliste nach Runde 8" icon="user" >}}
 {{< /cards >}}
 
 ## Spezial Tabellen

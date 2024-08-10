@@ -24,7 +24,6 @@ toc: false
   {{< card link="pairing/5" title="pairing round 5" icon="user" >}}
   {{< card link="pairing/6" title="pairing round 6" icon="user" >}}
   {{< card link="pairing/7" title="pairing round 7" icon="user" >}}
-  {{< card link="pairing/8" title="pairing round 8" icon="user" >}}
 {{< /cards >}}
 
 ## Ranking list of all rounds 
@@ -37,7 +36,6 @@ toc: false
   {{< card link="ranking/5" title="Ranking after round 5" icon="user" >}}
   {{< card link="ranking/6" title="Ranking after round 6" icon="user" >}}
   {{< card link="ranking/7" title="Ranking after round 7" icon="user" >}}
-  {{< card link="ranking/8" title="Ranking after round 8" icon="user" >}}
 {{< /cards >}}
 
 

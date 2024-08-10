@@ -25,7 +25,6 @@ type: docs
   {{< card link="table/pairing/5" title="pairing round 5" icon="user" >}}
   {{< card link="table/pairing/6" title="pairing round 6" icon="user" >}}
   {{< card link="table/pairing/7" title="pairing round 7" icon="user" >}}
-  {{< card link="table/pairing/8" title="pairing round 8" icon="user" >}}
 {{< /cards >}}
 
 ## Ranking list of all rounds 
@@ -38,7 +37,6 @@ type: docs
   {{< card link="table/ranking/5" title="Ranking after round 5" icon="user" >}}
   {{< card link="table/ranking/6" title="Ranking after round 6" icon="user" >}}
   {{< card link="table/ranking/7" title="Ranking after round 7" icon="user" >}}
-  {{< card link="table/ranking/8" title="Ranking after round 8" icon="user" >}}
 {{< /cards >}}
 
 

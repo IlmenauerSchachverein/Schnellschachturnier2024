@@ -15,5 +15,4 @@ sidebar:
   {{< card link="5.en" title="Pairings round 5" icon="user" >}}
   {{< card link="6.en" title="Pairings round 6" icon="user" >}}
   {{< card link="7.en" title="Pairings round 7" icon="user" >}}
-  {{< card link="8.en" title="Pairings round 8" icon="user" >}}
 {{< /cards >}}

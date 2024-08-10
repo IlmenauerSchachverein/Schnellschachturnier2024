@@ -16,5 +16,4 @@ sidebar:
   {{< card link="5" title="Pairings of Round 5" icon="user" >}}
   {{< card link="6" title="Pairings of Round 6" icon="user" >}}
   {{< card link="7" title="Pairings of Round 7" icon="user" >}}
-  {{< card link="8" title="Pairings of Round 8" icon="user" >}}
 {{< /cards >}}
