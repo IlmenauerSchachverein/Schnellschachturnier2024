@@ -9,7 +9,6 @@ weight: 2
 ## Information
 
 {{< cards >}}
-{{< card link="../../../Preisliste.pdf" title="Price list" icon="user" >}}
 {{< card link="../../../Startrangliste.pdf" title="Starting list" icon="user" >}}
 {{< card link="../../../Report.pdf" title="Final report" icon="user" >}}
 {{< /cards >}}
@@ -53,4 +52,5 @@ weight: 2
 
 {{< cards >}}
 {{< card link="../../../Rangliste1.pdf" title="Ilmenauer Open" icon="user" >}}
+{{< card link="../../../Preisliste.pdf" title="Price list" icon="user" >}}
 {{< /cards >}}
