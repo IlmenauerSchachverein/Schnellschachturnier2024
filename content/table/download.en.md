@@ -10,7 +10,6 @@ weight: 2
 
 {{< cards >}}
 {{< card link="../../../Startrangliste.pdf" title="Starting list" icon="user" >}}
-{{< card link="../../../Report.pdf" title="Final report" icon="user" >}}
 {{< card link="../../../Ausschreibung.pdf" title="Ausschreibung" icon="user" >}}
 {{< /cards >}}
 
