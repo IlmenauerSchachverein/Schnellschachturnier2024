@@ -8,10 +8,10 @@ weight: 2
 
 ## Information
 {{< cards >}}
-  {{< card link="../../Preisliste.pdf" title="Price list" icon="user" >}}
+  {{< card link="../../../Preisliste.pdf" title="Price list" icon="user" >}}
 {{< /cards >}}
 ## Ranking
 
 {{< cards >}}
-  {{< card link="../../Startrangliste.pdf" title="Startrangliste" icon="user" >}}
+  {{< card link="../../../Startrangliste.pdf" title="Startrangliste" icon="user" >}}
 {{< /cards >}}
