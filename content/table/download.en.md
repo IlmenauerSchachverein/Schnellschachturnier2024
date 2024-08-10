@@ -1,5 +1,5 @@
 ---
-title: Downloads   
+title: Downloads
 type: docs
 prev: /
 next: docs/folder/
@@ -7,11 +7,26 @@ weight: 2
 ---
 
 ## Information
+
 {{< cards >}}
-  {{< card link="../../../Preisliste.pdf" title="Price list" icon="user" >}}
+{{< card link="../../../Preisliste.pdf" title="Price list" icon="user" >}}
+{{< card link="../../../Startrangliste.pdf" title="Startrangliste" icon="user" >}}
 {{< /cards >}}
+
+## Pairings
+
+{{< cards >}}
+{{< card link="../../../Paarungen1.pdf" title="Parings round 1" icon="user" >}}
+{{< /cards >}}
+
 ## Ranking
 
 {{< cards >}}
-  {{< card link="../../../Startrangliste.pdf" title="Startrangliste" icon="user" >}}
+{{< card link="../../../Rangliste1.pdf" title="Ranking after round 1" icon="user" >}}
+{{< /cards >}}
+
+## More tournaments
+
+{{< cards >}}
+{{< card link="../../../Rangliste1.pdf" title="Ilmenauer Open" icon="user" >}}
 {{< /cards >}}
