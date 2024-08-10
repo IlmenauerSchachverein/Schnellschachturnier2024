@@ -11,6 +11,7 @@ weight: 2
 {{< cards >}}
 {{< card link="../../../Startrangliste.pdf" title="Startrangliste" icon="user" >}}
 {{< card link="../../../Report.pdf" title="Abschlussbericht" icon="user" >}}
+{{< card link="../../../Ausschreibung.pdf" title="Ausschreibung" icon="user" >}}
 {{< /cards >}}
 
 ## Paarungen
