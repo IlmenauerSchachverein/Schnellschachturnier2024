@@ -51,7 +51,7 @@ weight: 2
 ## Mehr Turniere
 
 {{< cards >}}
-{{< card link="../../../Rangliste1.pdf" title="Ilmenauer Open" icon="user" >}}
+{{< card link="../../../Open.pdf" title="Ilmenauer Open" icon="user" >}}
 {{< /cards >}}
 
 
