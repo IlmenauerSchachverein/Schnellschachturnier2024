@@ -44,5 +44,4 @@ toc: false
   {{< card link="special/dwz" title="DWZ Auswertung" icon="user" >}}
   {{< card link="special/elo" title="ELO Auswertung" icon="user" >}}
   {{< card link="special/progress" title="Fortschrittstabelle" icon="user" >}}
-  {{< card link="special/player" title="Spieler Übersicht" icon="user" >}}
 {{< /cards >}}

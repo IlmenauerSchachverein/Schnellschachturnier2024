@@ -45,5 +45,4 @@ type: docs
   {{< card link="table/special/dwz" title="DWZ evaluation" icon="user" >}}
   {{< card link="table/special/elo" title="ELO evaluation" icon="user" >}}
   {{< card link="table/special/progress" title="Progress table" icon="user" >}}
-  {{< card link="table/special/player" title="Player" icon="user" >}}
 {{< /cards >}}
