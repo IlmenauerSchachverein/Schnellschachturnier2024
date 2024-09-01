@@ -11,13 +11,13 @@ jobs:
 
     steps:
     - name: Checkout code from GitHub
-      uses: actions/checkout@v4
+      uses: actions/checkout@v2
       with:
-        fetch-depth: 0
+        fetch-depth: 0  
 
-    - name: Set up Git #dsxk
+    - name: Set up Git
       run: |
-        git config --global user.name "eskopp"
+        git config --global user.name "Erik Skopp"
         git config --global user.email "skopp.erik@gmail.com"
 
     - name: Add GitLab remote
@@ -34,10 +34,5 @@ jobs:
     - name: Push to GitLab
       run: |
         branch_name=$(echo "${GITHUB_REF#refs/heads/}")
-        git push gitlab "refs/heads/$branch_name:refs/heads/$branch_name"
-        
-    - name: Push to GitLab (create branch if not exists)
-      run: |
-        branch_name=$(echo "${GITHUB_REF#refs/heads/}")
-        git push gitlab "refs/heads/$branch_name:refs/heads/$branch_name"  # Pusht den aktuellen Branch zu GitLab und erstellt den Branch falls nötig
+        git push gitlab "refs/heads/$branch_name:refs/heads/$branch_name" --force-with-lease
         git push --tags gitlab  # Pusht alle Tags zu GitLab
