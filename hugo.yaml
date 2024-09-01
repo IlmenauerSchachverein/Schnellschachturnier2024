@@ -2,10 +2,9 @@
 title: 30. Ilmenauer Schnellschachturnier 2024
 theme: "hextra"
 
-# import hextra as module
-# module:
-#  imports:
-#    - path: github.com/imfing/hextra
+module:
+ imports:
+  - path: github.com/imfing/hextra
 
 markup:
   # allow raw html
