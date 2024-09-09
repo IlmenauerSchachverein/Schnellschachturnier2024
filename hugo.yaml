@@ -1,6 +1,7 @@
 # Hugo configuration file
 title: 30. Ilmenauer Schnellschachturnier 2024
 theme: "hextra"
+baseURL: "https://ilmenauerschachverein.github.io/Schnellschachturnier2024"
 
 module:
  imports:
@@ -72,5 +73,5 @@ params:
     displayPoweredBy: true
 
   editURL:
-    enable: false
+    enable: true
     base: "https://github.com/IlmenauerSchachverein/Schnellschachturnier2024"
