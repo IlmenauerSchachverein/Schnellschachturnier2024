@@ -74,4 +74,8 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/IlmenauerSchachverein/Schnellschachturnier2024"
+    base: "https://github.com/IlmenauerSchachverein/Schnellschachturnier2024/edit/main/content"
+
+services:
+  googleAnalytics:
+    ID: G-LP5TPJ78R7  
