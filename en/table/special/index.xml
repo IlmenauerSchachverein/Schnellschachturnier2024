@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>30th Ilmenau Rapid Chess Tournament 2024 – Special tables</title>
-    <link>/en/table/special/</link>
+    <link>https://ilmenauerschachverein.github.io/Schnellschachturnier2024/en/table/special/</link>
     <description>Recent content in Special tables on 30th Ilmenau Rapid Chess Tournament 2024</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="/en/table/special/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://ilmenauerschachverein.github.io/Schnellschachturnier2024/en/table/special/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>DWZ Evaluation</title>
-      <link>/en/table/special/dwz/</link>
+      <link>https://ilmenauerschachverein.github.io/Schnellschachturnier2024/en/table/special/dwz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/en/table/special/dwz/</guid>
+      <guid>https://ilmenauerschachverein.github.io/Schnellschachturnier2024/en/table/special/dwz/</guid>
       <description>
         
         
@@ -630,10 +630,10 @@
     
     <item>
       <title>ELO Evaluation</title>
-      <link>/en/table/special/elo/</link>
+      <link>https://ilmenauerschachverein.github.io/Schnellschachturnier2024/en/table/special/elo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/en/table/special/elo/</guid>
+      <guid>https://ilmenauerschachverein.github.io/Schnellschachturnier2024/en/table/special/elo/</guid>
       <description>
         
         
@@ -1400,10 +1400,10 @@
     
     <item>
       <title>Progress table</title>
-      <link>/en/table/special/progress/</link>
+      <link>https://ilmenauerschachverein.github.io/Schnellschachturnier2024/en/table/special/progress/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/en/table/special/progress/</guid>
+      <guid>https://ilmenauerschachverein.github.io/Schnellschachturnier2024/en/table/special/progress/</guid>
       <description>
         
         
