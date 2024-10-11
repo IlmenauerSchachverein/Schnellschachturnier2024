@@ -5,6 +5,7 @@ on:
   # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
+
   schedule:
     - cron: "0 0 1 * *"
 
@@ -31,9 +32,6 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - name: Set current date
-        run: echo "DATETIME=$(date +'%Y_%m_%d_%H_%M')" >> $GITHUB_ENV
-
       - name: Checkout repository
         uses: actions/checkout@v4
 
@@ -55,6 +53,7 @@ jobs:
 
       - name: Build Hugo site
         run: |
+          sed -i '2ibaseURL: "https://isst24.ilmenauer-schachverein.de/"' hugo.yaml
           hugo
 
       - name: Setup Pages
@@ -63,7 +62,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: public
+          path: public/
 
       - name: Deploy to GitHub Pages
         id: deployment

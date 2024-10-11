@@ -1,7 +1,5 @@
 # Hugo configuration file
 title: 30. Ilmenauer Schnellschachturnier 2024
-theme: "hextra"
-baseURL: "https://isst24.ilmenauer-schachverein.de/"
 
 module:
  imports:
