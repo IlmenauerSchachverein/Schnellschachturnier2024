@@ -1,5 +1,5 @@
-module IlmenauerSchachverein/IlmenauerOpen2024
+module isst23.ilmenauer-schachverein.de
 
 go 1.23
 
-require github.com/imfing/hextra v0.8.4 // indirect
+require github.com/imfing/hextra v0.8.6 // indirect

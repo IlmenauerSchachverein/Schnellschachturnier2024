@@ -57,7 +57,9 @@ menu:
       url: "https://instagram.com/ilmenauer_schachverein"
       params:
         icon: instagram
-
+services:
+  googleAnalytics:
+    ID: G-GLYW00ZRRD
 params:
   navbar:
     displayTitle: true
